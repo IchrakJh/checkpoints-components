@@ -1,0 +1,17 @@
+img{
+    border-radius: 8%;
+
+    margin-left: auto;
+    margin-right: auto;
+    
+    padding: 5px;
+    width: 500px;
+    height: 500px;
+    
+
+   
+    
+}
+img:hover {
+    transform: scaleX(-1);
+  }
